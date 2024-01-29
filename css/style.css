@@ -1,0 +1,48 @@
+.A{
+    text-align: center;
+}
+.B{
+    border: 3px solid white;
+
+    object-fit: cover;
+    box-shadow: 0 0 10px white;
+}
+
+.C{
+    border: 2px solid magenta;
+
+    object-fit: cover;
+}
+
+.D{
+    border: 2px solid magenta;
+
+    object-fit: cover;
+}
+.E{
+    border: 2px solid magenta;
+
+    object-fit: cover;
+}
+img:hover{
+    transform: rotate(20deg);
+}
+i:hover{
+  color: red;
+
+}
+li{
+    list-style: none;
+}
+input:focus{
+  background-color: orange;
+}
+button{
+    text-align: center;
+    
+}
+button :hover{
+    color: orange;
+    background-color: black;
+    
+}
